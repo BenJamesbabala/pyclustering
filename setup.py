@@ -50,7 +50,7 @@ class ccore_install(install):
 setup(
       name = 'pyclustering',
       packages = find_packages(),
-      version = '0.6.6',
+      version = '0.6.7',
       description = 'pyclustring is a python data mining library',
       url = 'https://github.com/annoviko/pyclustering',
       license = 'GNU Public License',
